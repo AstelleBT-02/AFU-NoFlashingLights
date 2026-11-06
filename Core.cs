@@ -12,7 +12,7 @@ using Il2Cpp;
 using Il2CppUI_LEGACY_PlayerHUD;
 using Il2CppView_Effects;
 
-[assembly: MelonInfo(typeof(AFUSeizurePrevention.Core), "NoFlashingLights", "1.0.0", "taldo", null)]
+[assembly: MelonInfo(typeof(AFUSeizurePrevention.Core), "NoFlashingLights", "1.0.0", "AstelleBT-02", null)]
 [assembly: MelonGame("Videocult", "Airframe")]
 
 namespace AFUSeizurePrevention
